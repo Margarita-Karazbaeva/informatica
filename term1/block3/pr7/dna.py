@@ -15,4 +15,4 @@ for k in a:
 for l in a:
     if l=='C':
         C=C+1
-print(A+" "+T+" "+G+" "+C)
+print(str(A)+" "+str(T)+" "+str(G)+" "+str(C)
